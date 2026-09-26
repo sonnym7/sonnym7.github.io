@@ -1,4 +1,4 @@
-title: <sonnym>
+title: sonnym
 ###### (please excuse the appearance, this is my first github site, i will hopefully improve this soon!)
 ### hi, thank you for your interest in my commissions!
 ### as of 09/08/2026 commissions are now: `OPEN`
