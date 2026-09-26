@@ -2,7 +2,7 @@
 - $40 for a black and white piece
   ###### like this!
 <p align="center">
-  <img src="./github-site-images/Screenshot_2026-09-08_14-59-35.png" width="500">
+  <img src="./github-site-images/bust_bw.png" width="500">
 </p>
 
 - $45 for a flat color
