@@ -15,11 +15,11 @@
 #### bust 
 [<img src="./github-site-images/half.png" width="400" align="center">](./digital_half.md)
 #### half 
-[<img src="./github-site-images/full-size.png" width="400" align="center">](./digital_bust.md)
+[<img src="./github-site-images/full-size.png" width="400" align="center">](./digital_full.md)
 #### full 
-[<img src="./github-site-images/extra-character.png" width="400" align="center">](./digital_bust.md)
+[<img src="./github-site-images/extra-character.png" width="400" align="center">](./digital_extra.md)
 #### extra character 
-[<img src="./github-site-images/group-shot.png" width="600" align="center">](./digital_bust.md)
+[<img src="./github-site-images/group-shot.png" width="600" align="center">](./digital_group.md)
 #### group
 
 ### how do i place an order?
