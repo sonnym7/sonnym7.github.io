@@ -14,3 +14,6 @@
 <p align="center">
  <img src="./github-site-images/Screenshot_2026-09-08_14-00-20.png" width="300"> <img src="./github-site-images/Screenshot_2026-09-26_18-53-58.png" width="300"> <img src="./github-site-images/Screenshot_2026-09-08_14-02-03.png" width="300">
 </p>
+
+###### click on the floppydisk to go home
+[<img src="./github-site-images/floppy.png" width="70">](./README.md)
