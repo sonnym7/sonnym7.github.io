@@ -18,7 +18,7 @@
 #### these prices apply to all sizes except full-body, for those i charge an extra $10 on top of the original price
 #### why?
 - i want to be able to maintain a level of motivation for myself to be able to portray your characters in all of their glory, full-body pieces take me the most time due to cross-references to anatomical studies (since i find that you can't really hide mistakes with these) so i want to ensure that i'm delivering you the best quality
-- if you would really love a group, full body piece for me but these rates are too steep, don't worry - keep your eyes peeled for sales!
+- if you would really love a group, full body piece from me but these rates are too steep, don't worry - keep your eyes peeled for sales!
 
 ###### click on the cross stitch to go back, and the floppydisk to go home
 [<img src="./github-site-images/crosstitch.png" width="70">](./digital_artwork.md) [<img src="./github-site-images/floppy.png" width="70">](./README.md)
