@@ -5,6 +5,8 @@
 - ♫⃠ welcome to my commission information page! if you're here by accident, this is the artwork commission information of @kyusslol (on instagram)
 
 - ♫⃠ right now, i can accommodate working on 4 orders at a time, see below for available slots - i'll also try and update the following section with estimates on when i think the next slot will open if they're all closed⠀⠀⠀
+
+- ♫⃠ note that if right now you aren't willing to purchase a commission at the prices set in this site, don't worry! i will have sales going on that will be announced both here and on my instagram page. thank you for your interest regardless, it truly does mean a lot
  
 - ♫⃠ you might recall that i had a different page set up on carrd -- i've retired that one since github is easier to update and i've made some changes to my commissions - apologies for the confusion!
  
@@ -19,6 +21,7 @@
 |   `OPEN!`   |   `OPEN!`   |   `OPEN!`   |   `OPEN!`   |
 
 # 4/4 slots are OPEN! please feel free to DM me on instagram to place your order!
+# alternatively, you may also contact me at kyusslolcomms@gmail.com
 
 ### ♫⃠♫⃠♫⃠ here are some examples of my art (at a glance)! more specific ones are included in the links
 ###### (you can also see more on my [instagram](https://www.instagram.com/kyusslol/) )
@@ -31,3 +34,5 @@
 
 ### ♫⃠♫⃠♫⃠ here is the information for commissioning traditional artwork
 [<img src="./github-site-images/chick.png" width="100">](./traditional_artwork.md)
+
+
