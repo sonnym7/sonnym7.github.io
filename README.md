@@ -3,6 +3,7 @@
 ### as of 09/08/2026 commissions are now: `OPEN`
 
 - ♫⃠ welcome to my commission information page! if you're here by accident, this is the artwork commission information of @kyusslol (on instagram)
+  
 - ♫⃠ i primarily draw people/humans but i'm pretty flexible - i would be open to drawing furry characters, pet portraits, or even still lifes; just keep in mind that since i mostly draw people, most of the examples of my artwork is of them (apologies for the inconvenience!)
 
  ### ♫⃠♫⃠♫⃠ here are some examples of my art (at a glance)! more specific ones are included in the links
