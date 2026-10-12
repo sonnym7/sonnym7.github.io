@@ -31,7 +31,7 @@
 ### as of 09/08/2026, 
 | slot 1      | slot 2      | slot 3      | slot 4      |
 | ----------- |:-----------:|:-----------:|:-----------:|
-|   `OPEN!`   |   `OPEN!`   |   `OPEN!`   |   `OPEN!`   |
+|  `CLOSED!`  |   `OPEN!`   |   `OPEN!`   |   `OPEN!`   |
 
 # 4/4 slots are OPEN! please feel free to DM me on instagram to place your order!
 # alternatively, you may also contact me at kyusslolcomms@gmail.com
